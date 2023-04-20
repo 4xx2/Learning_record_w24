@@ -1,8 +1,3 @@
-# Work Area
-
-Do all of your coding work here, in the `Work/` directory.  A number of starting
-files have been given (`bounce.py`, `mortgage.py`, `pcost.py`, etc.) along with
-their corresponding exercise number.
-
-Many of the programs you write reference files found in the `Data/` directory.
-That is also located here.
+=======
+# Learning_record_w24
+>>>>>>> 0e4381b49029781f07f7ed3d210467158695e215
